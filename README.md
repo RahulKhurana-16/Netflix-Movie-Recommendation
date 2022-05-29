@@ -42,92 +42,77 @@ MOVIE RECOMMENDATION SYSTEM
 </details>
 
 <!-- Introduction -->
-##Introduction
+## Introduction
 Over the last two decades, recommender systems have become State-of-the-Art Algorithms and can be regarded as success factors for companies such as Google, Amazon, and Netflix 
 
-<blockquote>The goal of a recommender system is to generate meaningful recommendations to a collection of users for items or products that might interest them. Suggestions for books on Amazon, or movies on Netflix, are real-world examples of the operation of industry-strength recommender systems. The design of such recommendation engines depends on the domain and the particular characteristics of the data available. For example, movie watchers on Netflix frequently provide ratings on a scale of 1 (disliked) to 5 (liked)</blockquote>
+The goal of a recommender system is to generate meaningful recommendations to a collection of users for items or products that might interest them. Suggestions for books on Amazon, or movies on Netflix, are real-world examples of the operation of industry-strength recommender systems. The design of such recommendation engines depends on the domain and the particular characteristics of the data available. For example, movie watchers on Netflix frequently provide ratings on a scale of 1 (disliked) to 5 (liked)
 
 
 <!-- ABOUT THE PROJECT -->
 
 ## About The Project
 
-* Microsoft Teams clone project built during Microsoft Engage 2021 program. 
-* It is a video call and chat application through which we can chat before, during and after a video call. 
-* The video call can take place between maximum 2 people at once.
+* NETFLIX clone (Movie recommendation) project built during Microsoft Engage 2022 program. 
+* It is a movie recommendation system through which we can recommend users video either based on their search or watch history. 
 
 ### Salient Features
-* User authentication using Firebase and login via Google and Facebook
-* Creating and deleting chat groups, adding and removing people by the group admin, photo sharing, chat text formatting, read receipts, typing status of users
-* One-on-one video call with randomly generated unique link and the ability to mute and unmute audio and video during the call
+* Secured using login system
+* New Users can login by registering on our website
+* Recommend users either based on their search or watch history
 
 ### Compatible Platforms
 Laptops, Desktops and Tablet PCs
 
-### Built With
-
-### Video Call Application: 
-* ![Front-end][front-end-shield]
-* ![Back-end][back-end-shield]
-* ![Tools][tools-shield]
-
-### Chat Application: 
-* ![Front-end][front-end-shield-1]
-* ![Back-end][back-end-shield-1]
-* ![Tools][tools-shield-1]
-
-<!-- AGILE METHODOLOGY -->
-## Agile Methodology
-
-### What is Agile
-
-Agile is a development methodology adopted today in the software industry. Agile promotes teamwork, flexible procedures, and sle-organizing teams.
-
-### How I Incorporated Agile Methodology During The Development Cycle
-
-SCRUM is a subset of Agile, a framework for developing software. SCRUM takes advantage of different techniques to achieve goals in Agile. SCRUM promotes an iterative model where the planning is performed on a very short term. The basic time working unit is the sprint. SCRUM teams always reason in sprints and their planning is limited to sprints.
-
-* Sprint 1 (June 14): Sprint Planning, Research and Design - Researching about various video call libraries and SDKs that can be used to make a video call app with a minimum functionality to have a call between 2 people. After finalizing webRTC for making the video call app, I searched for tutorials, designed a wireframe including the functionalities I want and designed the UI.
-
-* Sprint 2 (June 21): Software development and debugging - Started the development process by taking help from YouTube tutorials. Built a web application using React JS and Node JS for the first time. Encountered occasional bugs which I debugged timely. Made required changes in the UI and color scheme to make it more eye pleasing
-
-* Sprint 3 (July 5): Adapting the surprise feature, debugging and adding additional features - My detailed research made it easy for me to decide how to implement the surprise 'adapt' feature. Decided to build a chat app using React JS and Chat Engine and link my previous video call application to the new chat application. Made changes in pre-loaded styles to complement the color scheme of the video call app and added sign in authentication using Firebase. Also added mute audio and video function in the video call application.
-
+### Built With 
+* Python(FLASK Framework)
+* HTML
+* CSS
+* JavaSCript
+* 
 <!-- INSTALLATIONS -->
 
 ## Getting Started
 To install and run the project on your local system, following are the requirements:
 ### Prerequisites
-Make sure to install the required dependencies via node package manager
-```sh
-  npm install npm@latest -g
+To use this project, follow the steps below:
+
+Initialise git on your terminal.
+
+```bash
+git init
+```
+
+Clone this repository.
+
+```bash
+git clone https://github.com/pooja-gera/MSTeamsClone-Engage2021
+``` 
+
+Change the directory. 
+
+```bash
+cd Engage-project
 ```
 ### Installation
 
-* Video Call Application
-
-To separately run the video call application on your local host, perform the following steps:
-
-Run the following commands to start the server side.
-
+Install required libraries
 ```sh
-  npm install && npm start
+  pip install -r requirements.txt
 ```
-Run the following commands to start the client side and run it on your local host
+Run the following command inorder to change directory in our project
 ```sh
-  cd client
+  cd project
 ```
+Run the following command to run my  project
 ```sh
-  npm install && npm start
+  python app.py
 ```
-
-* Chat Application
-
-Run the following commands to start the application on your local host
-
+or
 ```sh
-  npm install && npm start
+flask run
 ```
+<img src="Images/Login-Screen.png" alt="login screen" width="700"/>
+
 <!-- APP TUTORIAL-->
 ## Navigating Through The App
 ### Login
@@ -160,18 +145,3 @@ Once the call is accepted, the users are connected and can video call seamlessly
 
 <img src="Images/Video-Call-2-people.png" alt="video call between 2 people" width="700"/>
 
-<!-- ACKNOWLEDGEMENTS -->
-
-## Resources Used
-
-* [React video call app tutorial](https://youtu.be/oxFr7we3LC8)
-* [How does webRTC work? Make a video call app using webRTC](https://youtu.be/rr_Zd16dql0)
-* [Firebase chat app - React JS, Firebase, Chat Engine](https://youtu.be/Bv9Js3QLOLY)
-
-<!--MARKDOWN LINKS-->
-[front-end-shield]: https://img.shields.io/badge/Front--end-React%20JS%2C%20Material--UI-blueviolet
-[back-end-shield]: https://img.shields.io/badge/Back--end-Node%20JS%2C%20Express%2C%20socket.io-blueviolet
-[tools-shield]: https://img.shields.io/badge/Tools-Peer%20JS%2C%20webRTC-blueviolet
-[front-end-shield-1]: https://img.shields.io/badge/Front--end-React%20JS%2C%20Ant--Design-blueviolet
-[back-end-shield-1]: https://img.shields.io/badge/Back--end-Chat%20Engine-blueviolet
-[tools-shield-1]: https://img.shields.io/badge/Tools-Firebase%2C%20Axios-blueviolet
