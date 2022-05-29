@@ -108,7 +108,7 @@ Run the following command to run my  project
 ```
 or
 ```sh
-flask run
+  flask run
 ```
 <img src="images/run.png" alt="login screen" width="700"/>
 
@@ -119,13 +119,17 @@ flask run
 New Users can register to my app.
 #### Registration Page
 
-<img src="Images/.png" alt="login screen" width="700"/>
+<img src="Images/register.png" alt="login screen" width="700"/>
+Already registered user can login using the credentials
+#### Login Page
 
-### Chat Window
+<img src="Images/signin.png" alt="login screen" width="700"/>
 
-After logging in, a blank chat window appears. Start a new chat by clicking on the + sign. A video call can be placed by clicking the 'Video Call' option in the navigation bar. Adjacent to it is the logout option.
+### Home Page
 
-<img src="Images/Blank-Chat-Window.png" alt="blank chat window" width="700"/>
+After logging in, Netflix CLone Home page appears.It is the home of amazing original programming that you can’t find anywhere else. Movies, TV shows, specials and more, it’s all tailored specifically to you.
+
+<img src="Images/home.png" alt="blank chat window" width="700"/>
 
 All the users registered with the app can be added to your chat. Photo sharing, read receipts, formatting the text, and many other things are possible in the chat. The shared photos can be viewed in the right pane. The chat can be deleted by expanding the 'Options' menu in the right pane and clicking the 'Delete' option.
 
