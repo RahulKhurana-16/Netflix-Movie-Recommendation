@@ -68,7 +68,6 @@ Laptops, Desktops and Tablet PCs
 * HTML
 * CSS
 * JavaSCript
-* 
 <!-- INSTALLATIONS -->
 
 ## Getting Started
