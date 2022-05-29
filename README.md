@@ -1,11 +1,9 @@
-<h1 align="center">Microsoft Teams Clone 
+<h1 align="center">Netflix Clone 
   <img src="https://play-lh.googleusercontent.com/TBRwjS_qfJCSj1m7zZB93FnpJM5fSpMA_wUlFDLxWAb45T9RmwBvQd5cWR5viJJOhkI" alt="Logo" width="25" height="25">
 </h1>
 
 <p align="center">
- <a target="_blank" href="https://microsoft-teams-engage.netlify.app/">Link to the App</a>
-    ·
- <a target="_blank" href="https://youtu.be/O7uGtnhZe2s">Video Demo</a>
+MOVIE RECOMMENDATION SYSTEM 
 </p>
     
 <!-- TABLE OF CONTENTS -->
