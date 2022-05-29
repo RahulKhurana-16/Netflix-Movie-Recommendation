@@ -1,5 +1,5 @@
 <h1 align="center">Microsoft Teams Clone 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Microsoft_logo.svg/480px-Microsoft_logo.svg.png" alt="Logo" width="25" height="25">
+  <img src="https://play.google.com/store/apps/details?id=com.netflix.mediaclient&hl=en_US&gl=US" alt="Logo" width="25" height="25">
 </h1>
 
 <p align="center">
