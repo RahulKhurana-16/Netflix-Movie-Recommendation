@@ -11,18 +11,12 @@ MOVIE RECOMMENDATION SYSTEM
   <summary>Table of Contents</summary>
   <ol>
     <li>
+      <a href="#Introduction">Introduction</a>
       <a href="#about-the-project">About The Project</a>
       <ul>
         <li><a href="#salient-features">Salient Features</a></li>
         <li><a href="#compatible-platforms">Compatible Platforms</a></li>
         <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#agile-methodology">Agile Methodology</a>
-      <ul>
-        <li><a href="#what-is-agile">What is Agile</a></li>
-        <li><a href="#how-i-incorporated-agile-methodology-during-the-development-cycle">How I Incorporated Agile Methodology During The Development Cycle</a></li>
       </ul>
     </li>
     <li>
@@ -33,11 +27,19 @@ MOVIE RECOMMENDATION SYSTEM
       </ul>
     </li>
     <li><a href="#navigating-through-the-app">Navigating through the App</a></li><ul>
-        <li><a href="#login">Login</a></li>
-        <li><a href="#chat-window">Chat Window</a></li>
-        <li><a href="#video-call">Video Call</a></li>
+        <li><a href="#login">Login/Registration Page</a></li>
+        <ul>
+          <li><a href="#Registrain-page">Registration Page</a></li>
+          <li><a href="#login-page">Login Page</a></li>
+         </ul>
+        <li><a href="#Home-page">Home page</a></li>
+        <li><a href="#Movie-Recommendation">Movie Recommendation</a></li>
+          <ul>
+            <li><a href="#user-list-based">User List Based</a></li>
+            <li><a href="#user-search-based">User Search Based</a></li>
+            </ul>
       </ul>
-    <li><a href="#resources-used">Resources Used</a></li>
+    <li><a href="#future-scope">Future Scope</a></li>
   </ol>
 </details>
 
@@ -127,25 +129,23 @@ Already registered user can login using the credentials
 
 ### Home Page
 
-After logging in, Netflix CLone Home page appears.It is the home of amazing original programming that you can’t find anywhere else. Movies, TV shows, specials and more, it’s all tailored specifically to you.
+After logging in, Netflix CLone Home page appears.It's the home of amazing original programming that you can’t find anywhere else. Movies, TV shows, specials and more, it’s all tailored specifically to you.
 
 <img src="images/home.png" alt="blank chat window" width="700"/>
 
-All the users registered with the app can be added to your chat. Photo sharing, read receipts, formatting the text, and many other things are possible in the chat. The shared photos can be viewed in the right pane. The chat can be deleted by expanding the 'Options' menu in the right pane and clicking the 'Delete' option.
 
-<img src="Images/New-Chat.png" alt="new chat" width="700"/>
+### Movie Recommendation
 
-### Video Call
+#### User List based 
 
-The video call welcome screen shows your video and has a form to enter your name. To place a call, click on 'Copy your ID' and send the random generated unique ID to the person you want to call. 
+<img src="images/mylist.png" alt="video call welcome screen" width="700"/>
+<img src="images/recommender.png" alt="video call welcome screen" width="700"/>
 
-<img src="Images/Video-Call-Welcome-Screen.png" alt="video call welcome screen" width="700"/>
+#### User Search based
 
-The person who received the ID needs to copy that in the 'ID to call' input field and click on 'Call' button. You can accept the person's incoming call by clicking on 'Answer' button.
+<img src="images/searchpage.png" alt="placing call" width="700"/>
+<img src="images/srpage.png" alt="placing call" width="700"/>
 
-<img src="Images/Placing-Call.png" alt="placing call" width="700"/>
-
-Once the call is accepted, the users are connected and can video call seamlessly with the option to mute audio and video when required. The call can be stopped by clicking on 'Hang Up' button. The video call screen closes and we are navigated back to the chat window.
-
-<img src="Images/Video-Call-2-people.png" alt="video call between 2 people" width="700"/>
-
+### Future Scope
+*
+*
