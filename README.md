@@ -111,7 +111,7 @@ or
 ```sh
 flask run
 ```
-<img src="Images/Login-Screen.png" alt="login screen" width="700"/>
+<img src="images/run.png" alt="login screen" width="700"/>
 
 <!-- APP TUTORIAL-->
 ## Navigating Through The App
