@@ -114,11 +114,12 @@ flask run
 
 <!-- APP TUTORIAL-->
 ## Navigating Through The App
-### Login
+### Login/Registration Page
 
-Login to the chat application via Google or Facebook. If an email id is linked with both Google and Facebook, then sign in can be done with wither via Google or Facebook.
+New Users can register to my app.
+#### Registration Page
 
-<img src="Images/Login-Screen.png" alt="login screen" width="700"/>
+<img src="Images/.png" alt="login screen" width="700"/>
 
 ### Chat Window
 
