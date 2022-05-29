@@ -1,5 +1,5 @@
 <h1 align="center">Microsoft Teams Clone 
-  <img src="https://play.google.com/store/apps/details?id=com.netflix.mediaclient&hl=en_US&gl=US" alt="Logo" width="25" height="25">
+  <img src="https://play-lh.googleusercontent.com/TBRwjS_qfJCSj1m7zZB93FnpJM5fSpMA_wUlFDLxWAb45T9RmwBvQd5cWR5viJJOhkI" alt="Logo" width="25" height="25">
 </h1>
 
 <p align="center">
