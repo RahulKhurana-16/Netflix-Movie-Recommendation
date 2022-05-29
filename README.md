@@ -41,9 +41,17 @@ MOVIE RECOMMENDATION SYSTEM
   </ol>
 </details>
 
+<!-- Introduction -->
+##Introduction
+Over the last two decades, recommender systems have become State-of-the-Art Algorithms and can be regarded as success factors for companies such as Google, Amazon, and Netflix 
+
+<blockquote>The goal of a recommender system is to generate meaningful recommendations to a collection of users for items or products that might interest them. Suggestions for books on Amazon, or movies on Netflix, are real-world examples of the operation of industry-strength recommender systems. The design of such recommendation engines depends on the domain and the particular characteristics of the data available. For example, movie watchers on Netflix frequently provide ratings on a scale of 1 (disliked) to 5 (liked)</blockquote>
+
+
 <!-- ABOUT THE PROJECT -->
 
 ## About The Project
+
 * Microsoft Teams clone project built during Microsoft Engage 2021 program. 
 * It is a video call and chat application through which we can chat before, during and after a video call. 
 * The video call can take place between maximum 2 people at once.
