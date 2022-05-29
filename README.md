@@ -119,17 +119,17 @@ or
 New Users can register to my app.
 #### Registration Page
 
-<img src="Images/register.png" alt="login screen" width="700"/>
+<img src="images/register.png" alt="login screen" width="700"/>
 Already registered user can login using the credentials
 #### Login Page
 
-<img src="Images/signin.png" alt="login screen" width="700"/>
+<img src="images/signin.png" alt="login screen" width="700"/>
 
 ### Home Page
 
 After logging in, Netflix CLone Home page appears.It is the home of amazing original programming that you can’t find anywhere else. Movies, TV shows, specials and more, it’s all tailored specifically to you.
 
-<img src="Images/home.png" alt="blank chat window" width="700"/>
+<img src="images/home.png" alt="blank chat window" width="700"/>
 
 All the users registered with the app can be added to your chat. Photo sharing, read receipts, formatting the text, and many other things are possible in the chat. The shared photos can be viewed in the right pane. The chat can be deleted by expanding the 'Options' menu in the right pane and clicking the 'Delete' option.
 
