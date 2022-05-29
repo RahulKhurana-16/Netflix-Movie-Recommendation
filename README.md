@@ -123,6 +123,7 @@ New Users can register to my app.
 
 <img src="images/register.png" alt="login screen" width="700"/>
 Already registered user can login using the credentials
+
 #### Login Page
 
 <img src="images/signin.png" alt="login screen" width="700"/>
@@ -147,5 +148,6 @@ After logging in, Netflix CLone Home page appears.It's the home of amazing origi
 <img src="images/srpage.png" alt="placing call" width="700"/>
 
 ### Future Scope
-*
-*
+* Users can watch movies with other users in a real-time depending upon the same interest
+* Users can chat while streaming and share their thoughts and ideas about the same.
+* Improve search time for hybrid recommendations.
