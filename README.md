@@ -92,7 +92,7 @@ git clone https://github.com/RahulKhurana-16/Netflix-Movie-Recommendation
 Change the directory. 
 
 ```bash
-cd Engage-project
+cd Netflix-Movie-Recommendation
 ```
 ### Installation
 
