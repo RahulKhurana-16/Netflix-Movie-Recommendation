@@ -86,7 +86,7 @@ git init
 Clone this repository.
 
 ```bash
-git clone https://github.com/pooja-gera/MSTeamsClone-Engage2021
+git clone https://github.com/RahulKhurana-16/Netflix-Movie-Recommendation
 ``` 
 
 Change the directory. 
