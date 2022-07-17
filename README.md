@@ -96,14 +96,6 @@ cd Netflix-Movie-Recommendation
 ```
 ### Installation
 
-Install required libraries
-```sh
-  pip install -r requirements.txt
-```
-Run the following command inorder to change directory in our project
-```sh
-  cd project
-```
 Run the following command to run my  project
 ```sh
   python app.py
