@@ -1,4 +1,4 @@
-<h1 align="center">Netflix Clone 
+<h1 align="center">Netflix Movie Recommendation Clone 
   <img src="https://play-lh.googleusercontent.com/TBRwjS_qfJCSj1m7zZB93FnpJM5fSpMA_wUlFDLxWAb45T9RmwBvQd5cWR5viJJOhkI" alt="Logo" width="25" height="25">
 </h1>
 
