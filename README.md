@@ -54,7 +54,7 @@ The goal of a recommender system is to generate meaningful recommendations to a 
 
 ## About The Project
 
-* NETFLIX clone (Movie recommendation) project built during Microsoft Engage 2022 program. 
+* NETFLIX clone (Movie recommendation) project. 
 * It is a movie recommendation system through which we can recommend users video either based on their search or watch history. 
 
 ### Salient Features
